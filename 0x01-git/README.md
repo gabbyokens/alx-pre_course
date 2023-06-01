@@ -1,1 +1,1 @@
-an update on my first work on git 
+my first work on git 
